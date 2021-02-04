@@ -1,5 +1,5 @@
 # Croppie - A Javascript Image Cropper
-
+This fork defaults to JPEG because the original seems to ignore the format option and always do PNG.
 
 ## To Install
 Bower: `bower install croppie`
